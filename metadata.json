@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Horizon AI Assistant",
+  "description": "An immersive spatial voice assistant powered by Gemini Live API, designed for Meta Horizon OS and Quest VR environments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
